@@ -4,11 +4,11 @@
 </h1>
 
 # leetcode
-rack the leetcode progress and note
-
-![Alt text](img/LeetCode_logo.png width=100 "Title")
-
-One to two paragraph statement about your product and what it does.
+track the leetcode progress and notes for the problems
 
 ## Progress
-## Notes
+### 5/18
+| Problem | Problems           | Tags  |
+| ------------- |:-------------:| -----:|
+| 1     | [two sum](https://leetcode.com/problems/two-sum/) | Array |
+
