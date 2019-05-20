@@ -17,4 +17,8 @@ track the leetcode progress and notes for the problems
 | Problem | Problems           | Tags  |
 | ------------- |:-------------:| -----:
 | 11     | Container With Most Water| Array |
+| 15    | Three sum| Array |
+| 16    | Three sum closet| Array |
+| 18    | Four sum| Array |
+
 
