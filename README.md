@@ -21,4 +21,18 @@ track the leetcode progress and notes for the problems
 | 16    | Three sum closet| Array |
 | 18    | Four sum| Array |
 
+## 5.20
+| Problem | Problems           | Tags  |
+| ------------- |:-------------:| -----:
+| 26    | Remove Duplicates from Sorted Array| Array |
+| 27    | Remove Element| Array |
+| 31    | Next Permutation| Array |
+| 33    | Search in Rotated Sorted Array| Array |
+
+## 5.21
+| Problem | Problems           | Tags  |
+| ------------- |:-------------:| -----:
+| 34   | Find First and Last Position of Element in Sorted Array| Array |
+| 35    | Search Insert Position| Array |
+| 39    | Combination Sum| Array |
 
